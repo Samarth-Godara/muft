@@ -33,8 +33,5 @@ https://drive.google.com/file/d/1Hr8LIAX_rscDdl_2WjBx0BPPoiAB6nKV/view?usp=shari
 .
 
 ### Developed By:
-Dr. Samarth Godara,
-
 ICAR-IASRI, New Delhi.
-
-Email: samarth.godara@gmail.com
+Support Email: samarth.godara@gmail.com
